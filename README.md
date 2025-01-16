@@ -28,7 +28,7 @@
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejoalbornoz&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejoalbornoz&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejoalbornoz&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="100" />
         <br>
         <br>
     </div>
