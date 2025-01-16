@@ -17,18 +17,10 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,github,mongodb,mysql,py,django,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,github,html,mongodb,mysql,py,django,vscode&perline=14" />
   </a>
 </p>
 
-
-<div align="center">
-    <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-    </picture>
-</div>
 
    <div align=center>
         <h1>Contribution Activity</h1>
