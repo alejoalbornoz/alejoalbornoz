@@ -17,7 +17,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,github,html,mongodb,mysql,py,django,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=discord,vscode,git,aws,docker,github,mongodb,mysql,py,django,html,css&perline=14" />
   </a>
 </p>
 
