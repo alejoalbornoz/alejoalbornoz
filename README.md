@@ -17,8 +17,13 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,vscode,git,aws,docker,github,mongodb,mysql,py,django,html,css,js&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker&perline=14" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,py,django&perline=14" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=14" />
   </a>
+  </p>
 </p>
 
 
