@@ -8,7 +8,6 @@
 
 - 📚 Learning everything Full-Stack technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 📫 Reach out to me at: alejoalbornoz912@gmail.com
 
 <div id="user-content-toc">
   <ul align="center">
