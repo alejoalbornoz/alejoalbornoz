@@ -4,7 +4,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<p>I’m a Junior Full-Stack Developer with a strong focus on back-end development. Currently studying and always looking to learn something new. I enjoy building clean, functional applications and constantly improving my skills across the stack.</p>
+<p>I’m a Junior Full-Stack Developer with a strong focus on back-end development. Currently studying and always looking to learn something new. I enjoy building clean, functional applications and constantly improving my skills across the stack 😁.</p>
 
 - 📚 Learning everything Full-Stack technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
