@@ -20,7 +20,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,py,django&perline=14" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs&perline=14" />
   </a>
   </p>
 </p>
