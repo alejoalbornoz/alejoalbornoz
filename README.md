@@ -24,15 +24,6 @@
   </a>
   </p>
 </p>
-
-
-   <div align=center>
-      <h1>Contribution Activity</h1>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alejoalbornoz&theme=tokyonight" alt="mystreak"/>
-     <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejoalbornoz&theme=tokyonight" alt="Top Langs"/>
-   </div>
-
 <hr>
 <div align="center">
   <a href= "https://www.linkedin.com/in/alejo-angel-albornoz-a8b700254/">
