@@ -22,7 +22,7 @@
 </p>
 <hr>
 <div align="center">
-  <a href= "https://www.linkedin.com/in/alejo-angel-albornoz-a8b700254/">
+  <a href= "https://www.linkedin.com/in/alejoalbornozz/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
