@@ -5,6 +5,7 @@
 
 
 <p>I’m a Full-Stack Developer with a strong focus on back-end development. Currently studying and always looking to learn something new. I enjoy building clean, functional applications and constantly improving my skills across the stack 😁 </p>
+<br/>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
