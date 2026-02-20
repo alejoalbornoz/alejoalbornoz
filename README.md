@@ -15,7 +15,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postman,git,github,docker&perline=14" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,py,django&perline=14" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,py,django&perline=14" />
     <br/>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs&perline=14" />
   </a>
