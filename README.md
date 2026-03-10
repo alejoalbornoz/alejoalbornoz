@@ -13,7 +13,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=postman,git,github,docker,kubernetes&perline=14" />
     <br/>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,py,django&perline=14" />
     <br/>
