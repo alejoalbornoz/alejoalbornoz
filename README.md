@@ -13,11 +13,11 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,git,github,docker,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,ts,html,css,react&perline=14" />
+      <br/>
+    <img src="https://skillicons.dev/icons?i=express,nextjs,py,django,mongodb,mysql,postgres&perline=14" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,py,django&perline=14" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,git,github&perline=14" />
   </a>
   </p>
 </p>
