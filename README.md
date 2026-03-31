@@ -4,7 +4,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<p>I’m a Full-Stack Developer with a strong focus on back-end development. Currently studying and always looking to learn something new. I enjoy building clean, functional applications and constantly improving my skills across the stack 😁 </p>
+<p> Backend Developer | Java · Spring Boot · Node.js · Express | Building day by day☕ </p>
 <br/>
 <div id="user-content-toc">
   <ul align="center">
