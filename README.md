@@ -4,15 +4,17 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<p> Backend Developer | Java · Spring Boot · Node.js · Express | Building day by day☕ </p>
+<p> Backend Developer  </p>
+<p> | Java · Spring Boot · Node.js · Express | </p>
+<p> Building day by day.. ☕ </p>
 <br/>
 <div id="user-content-toc">
   <br/>
-  <ul align="center">
+  <ul align="left">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,nodejs,ts,html,css,react&perline=14" />
       <br/>
