@@ -8,10 +8,8 @@
 
 <p> | Java · Spring Boot · Node.js · Express | </p>
 <p> Building day by day.. ☕ </p>
-<br/>
 
 <div id="user-content-toc">
-  <br/>
   <ul align="left">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
     <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
