@@ -4,7 +4,7 @@
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<p> Backend Developer  </p>
+<h1> Backend Developer  </h1>
 <p> | Java · Spring Boot · Node.js · Express | </p>
 <p> Building day by day.. ☕ </p>
 <br/>
