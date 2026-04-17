@@ -6,7 +6,7 @@
 
 <h1> Backend Developer  </h1>
 
-<p> | Java · Spring Boot · Node.js · Express | </p>
+<p> Main Stack | Java · Spring Boot | </p>
 <p> Building day by day.. ☕ </p>
 
 <div id="user-content-toc">
