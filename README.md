@@ -17,9 +17,11 @@
 </div>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,ts,html,css,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,py,html,css,react&perline=14" />
       <br/>
-    <img src="https://skillicons.dev/icons?i=spring,express,nextjs,py,django,mongodb,mysql,postgres&perline=14" />
+    <img src="https://skillicons.dev/icons?i=spring,express,nextjs,django&perline=14" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres&perline=14" />
     <br/>
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,git,github&perline=14" />
   </a>
