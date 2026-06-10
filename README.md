@@ -9,7 +9,7 @@
 <p> Main Stack | Java · Spring Boot | </p>
 <p> Building day by day.. ☕ </p>
 
-<p>Portfolio: <a href="https://portfolio-v2-theta-amber-39.vercel.app/">https://portfolio-v2-theta-amber-39.vercel.app/</a></p>
+<p>Portfolio: <a href="https://portfolio-v2-theta-amber-39.vercel.app/">Link</a></p>
 
 <div id="user-content-toc">
   <ul align="left">
