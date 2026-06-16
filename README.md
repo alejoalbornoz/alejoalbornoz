@@ -25,7 +25,7 @@
     <br/>
     <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,postgres&perline=14" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,git,github,maven&perline=14" />
   </a>
   </p>
   
